@@ -18,7 +18,7 @@ Web application
 ・Thymeleaf
 
 【DB】
-・MySQL（JPA）
+・MySQL（MyBatis）
 
 【Servlet container】
 ・Apache Tomcat
