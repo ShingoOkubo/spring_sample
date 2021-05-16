@@ -1,26 +1,24 @@
 # spring_sample
 Web application
 
-# Requirement
-## IDE
-### Eclipse
-### STS
+## Requirement
+【IDE】
+・Eclipse（STS）
 
-## Build Tool
-### gradle
+【Build Tool】
+・gradle
 
-## Language
-### Java8
+【Language】
+・Java8
 
-## FW
-### Spring Boot
+【FW】
+・Spring Boot
 
-## Template engine
-### Thymeleaf
+【Template engine】
+・Thymeleaf
 
-## DB
-### MySQL
-### JPA
+【DB】
+・MySQL（JPA）
 
-## Servlet container
-### Apache Tomcat
+【Servlet container】
+・Apache Tomcat
